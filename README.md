@@ -1,7 +1,7 @@
 # ControleDeEntradaDespertar
 
 ## Descrição
-O "ControleDeEntradaDespertar" é uma aplicação desenvolvida em Flutter para gerenciar o controle de entrada de um sistema. Esta aplicação serve como um ponto de partida para desenvolvimentos futuros, fornecendo a estrutura básica necessária para um aplicativo Flutter funcional.
+O "ControleDeEntradaDespertar" é uma aplicação desenvolvida em Flutter para gerenciar o controle de entrada de alunos da instituição. Esta aplicação serve como um ponto de partida para desenvolvimentos futuros, fornecendo a estrutura básica necessária para um aplicativo Flutter funcional.
 
 ## Estrutura do Projeto
 - **android/**: Arquivos específicos para a plataforma Android.
