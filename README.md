@@ -16,37 +16,27 @@ O "ControleDeEntradaDespertar" é uma aplicação desenvolvida em Flutter para g
 ## Instalação
 1. Certifique-se de ter o Flutter instalado em sua máquina.
 2. Clone este repositório:
-   ```bash
-   git clone https://github.com/vanderxb/ControleDeEntradaDespertar.git
+   `git clone https://github.com/vanderxb/ControleDeEntradaDespertar.git`
+3. Navegue até o diretório do projeto:
+   `cd ControleDeEntradaDespertar`
+4. Instale as dependências:
+   `flutter pub get`
 
-Navegue até o diretório do projeto:
-
-cd ControleDeEntradaDespertar
-
-Instale as dependências:
-
-flutter pub get
-
-Execução
+## Execução
 Para executar o aplicativo em um dispositivo ou emulador, use o comando:
+`flutter run`
 
-flutter run
+## Contribuição
+1. Faça um fork deste repositório.
+2. Crie uma nova branch:
+   `git checkout -b feature/nome-da-feature`
+3. Faça suas alterações e commit:
+   `git commit -m 'Adicionando nova feature'`
+4. Envie suas alterações:
+   `git push origin feature/nome-da-feature`
+5. Abra um Pull Request.
 
-Contribuição
-Faça um fork deste repositório.
+## Licença
+Este projeto está licenciado sob a licença [MIT](LICENSE).
 
-Crie uma nova branch:
-git checkout -b feature/nome-da-feature
-
-Faça suas alterações e commit:
-git commit -m 'Adicionando nova feature'
-
-Envie suas alterações:
-git push origin feature/nome-da-feature
-Abra um Pull Request.
-
-Licença
-Este projeto está licenciado sob a licença MIT.
-
-Copiar código
 Se precisar de mais alguma coisa, é só avisar!
